@@ -22,7 +22,7 @@ MYSQL Databses
 
 Step to run the project
 1) Import the database files  localhost.sql in Your sql Database. This will create all necessory Tables in your database.
-2) Start the XAMPP server and store the project your http folder
+2) Start the XAMPP server and store the project in  htdocs folder
 3) open index.php in your browser
 
 
