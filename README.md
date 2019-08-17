@@ -16,7 +16,7 @@ Text Local api for sending One time password
 
 Libraries - fpdf Library
 
-# Software Reaquired to run Projects
+## Software Reaquired to run Projects
 XAMPP OR LAMP Sever
 MYSQL Databses
 
